@@ -4,3 +4,8 @@ thats it and also you have to add a time waiter in the fisrt time running so cha
 thats truely it
 
 ![Screenshot](-.png)
+
+Disclaimer:
+this month a new virsion that is more reliable and sufficient for people who want to spam is coming out.
+
+![Screenshot](1-.png)
